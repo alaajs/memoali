@@ -1,8 +1,5 @@
-[🌟 TH3BOSS](https://telegram.me/TH3BOSS)
-  
-[V15 We Are The Best](https://telegram.me/llDEV1ll)
-  
-[كـيـفـيـه تـنـصـيـب سـورس الـزعـيـم](https://telegram.me/TH3BOSS) 
+
+[كـيـفـيـه تـنـصـيـب سـورس ] 
  
 ```sh
 
@@ -24,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/alaajs/memoali.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd TH3BOSS
+cd memoali
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -81,25 +78,9 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/alaajs/memoali.git && cd memoali && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
 ```
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 يطلب رقم خلي رقم البوت 
 مبروك عليك افضل بوت عل تلي 
-
- Enter a phone number & confirmation code.
-Congratulations, you better bot
-
- Realm configuration
-
-After you run the bot for first time, send it `!id`. Get your ID and stop the bot.
-
-
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
-You have an idea to develop Alsoors or bot prefer 🏿️
-
-🌟| Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
