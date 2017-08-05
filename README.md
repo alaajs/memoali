@@ -50,23 +50,12 @@ screen ./autobd.sh
 يطلب ايدي  خلي ايديك ثم رقم البوت 
 مبروك عليك افضل بوت عل تلي 
 
-عندك استفسار او اي شي راسلني
-@TH3BOSS
-واذا محظور تعال على بوت التواصل
-@ll60Kllbot
-قـنـاة الـسـورس
-@llDEV1ll
-
- Enter a phone number & confirmation code.
-Congratulations, you better bot
 ```
- One command
-To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
-
 لتنصيب البوـب بكوَدَ واحد فقط َ   
 
 فتح ترمنال وخلي   
 ➖🔹➖🔹➖🔹➖🔹➖🔹
+
 sudo apt-get update 
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -83,7 +72,6 @@ redis-server
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/alaajs/memoali.git && cd memoali && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
 ```
-
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 يطلب رقم خلي رقم البوت 
 مبروك عليك افضل بوت عل تلي 
