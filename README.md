@@ -68,11 +68,14 @@ To install everything in one command (useful for VPS deployment) on Debian-based
 فتح ترمنال وخلي   
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 sudo apt-get update 
+
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي  
 
 redis-server
+
 ➖🔹➖🔹➖🔹➖🔹➖🔹
+
 تركه مفتوح   
 
 وفتح ترمنال ثاني وخلي  
